@@ -1,4 +1,5 @@
 # HappySmile — Enquiry-to-Appointment Prototype
+live Link: https://happy-smile-enquiry-to-appointment.vercel.app/
 
 Product management task onboarding and flow: **AI-assisted enquiry-to-appointment conversion workflow** for a fictional 12-clinic dental chain. AI makes the first callback within minutes, and front-desk staff handle exceptions: human requests, clinical questions, uncertain calls and slot confirmation.
 
